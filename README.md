@@ -1,9 +1,9 @@
 # Consul in Docker
 
-Looking for what used to be `progrium/consul`? Look in the `legacy` branch.
+* [0x1997/consul](https://hub.docker.com/r/0x1997/consul/)
+* [0x1997/consul-agent](https://hub.docker.com/r/0x1997/consul-agent/)
+* [0x1997/consul-server](https://hub.docker.com/r/0x1997/consul-server/)
 
 ## License
 
 MIT
-
-<img src="https://ga-beacon.appspot.com/UA-58928488-2/docker-consul/readme?pixel" />

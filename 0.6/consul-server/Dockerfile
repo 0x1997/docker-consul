@@ -1,3 +1,3 @@
-FROM gliderlabs/consul-agent:0.6
+FROM 0x1997/consul-agent:latest
 ADD ./config /config/
-ENTRYPOINT ["/bin/consul", "agent", "-server", "-config-dir=/config"]
+ENTRYPOINT ["./consul.sh", "-server", "-config-dir=/config"]
